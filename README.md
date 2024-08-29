@@ -1,4 +1,6 @@
-# 👋 Hi there! I'm Mann Patel, A passionate BCA student from Ahmedabad,India. I'm currently studying at SilverOak University / SilverOak College Of Computer Application.
+# Hi, I'M Mann Patel
+
+👋 Hi there! I'm Mann Patel, A passionate BCA student from Ahmedabad,India. I'm currently studying at SilverOak University / SilverOak College Of Computer Application.
 
 🎯 College Semester 1 Result Is 9.47 SPI and Semester 2 result 9.39 SPI.
 
