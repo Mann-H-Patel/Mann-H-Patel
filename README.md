@@ -26,8 +26,6 @@ I'm currently looking for **internships** and **project collaborations**. If you
 
 ## 📫 How to reach me:
 - **Email**: [krishnaplayzz1409@gmail.com](mailto:krishnaplayzz1409@gmail.com)
-- **LinkedIn**: [Mann Patel LinkedIn](#) *(Optional: Add your LinkedIn profile URL here)*
-- **Portfolio/Website**: [your-portfolio-link](#) *(Optional: Add your portfolio or personal website URL here)*
 
 ## ⚡ Fun Fact
 Coding and software/web development are not just my passion—they’re my world! 🚀
